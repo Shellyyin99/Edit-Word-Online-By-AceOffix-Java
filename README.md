@@ -27,6 +27,6 @@ Copy examples5 folder to root of your web server and use Internet Explorer brows
 
 ## How to integrate Aceoffix into your web project
 
-[How to integrate Aceoffix into your web project](https://github.com/aceoffix/Edit-Word-Online-By-AceOffix-Java/blob/master/how%20to%20integrate%20Aceoffix.md)
+[How to integrate Aceoffix into your web project](https://github.com/Shellyyin99/Edit-Word-Online-By-AceOffix-Java/blob/master/how%20to%20integrate%20Aceoffix.md)
 
 
